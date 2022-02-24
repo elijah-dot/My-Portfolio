@@ -2,13 +2,29 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color:;
+}
 .containerone h1{
     text-align: center;
-    font-size: 50px;
-    color: green;
+    font-size: 70px;
+    color: rgb(56, 196, 56);
     margin-top: 20px;
 
 }
 .containerone .picone{
     margin-left: 60px;
+}
+.containerone .top{
+    display: flex;
+}
+.containerone .top .plasttwo .one h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(72, 209, 72);
+    
+}
+.containerone .top .plasttwo .one p{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
