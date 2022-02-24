@@ -16,7 +16,14 @@ body{
 
 }
 .containerone .picone{
-    margin-left: 60px;
+    margin-left: 40px;
+}
+@media (max-width:700px) {
+    .containerone .picone{
+        display: none;
+    }
+
+    
 }
 .containerone .top{
     display: flex;
@@ -88,5 +95,3 @@ body{
     color: white;
     
 }
-
-
