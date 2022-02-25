@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    overflow-x: hidden;
+}
 .part-one .five{
     display: flex;
     flex-direction: row;
@@ -56,6 +59,14 @@
 
 }
 
+@media (min-width:700px) {
+
+
 .part-one .five .team img{
+    display: none;
+    
 
 }
+    
+}
+
