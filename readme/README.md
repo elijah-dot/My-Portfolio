@@ -39,7 +39,7 @@ Distributed under the MIT Licence [Click to Veiw licence](Licence)
 
 ## Authors Info
 
-Email - [Elijah Mwangi Wangu](elijahwangu91@gmail.com)
+linked - [Elijah Mwangi Wangu](elijahwangu91@gmail.com)
 
 [Go Back to the top](#portfolio)
 
