@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.one .container-fluid .first{
+    margin-top: 40px;
+}
 .container-fluid{
     display: flex;
     justify-content: space-between;
@@ -23,5 +26,50 @@
 .one .container-fluid .second .project-one .button-one a{
     text-decoration: none;
     color: white;
-    font-size: 15px;
+    
+}
+
+.one .container-fluid .second .project-two{
+    margin: 15px;
+}
+.one .container-fluid .second .project-two h3{
+    font-size: 35px;
+}
+.one .container-fluid .second .project-two p{
+    font-size: 20px;
+}
+.one .container-fluid .second .project-two .button-one a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.one .container-fluid .second .project-three{
+    margin: 15px;
+}
+.one .container-fluid .second .project-three h3{
+    font-size: 35px;
+}
+.one .container-fluid .second .project-three p{
+    font-size: 20px;
+}
+.one .container-fluid .second .project-three .button-one a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.one .container-fluid .second .project-four{
+    margin: 15px;
+}
+.one .container-fluid .second .project-four h3{
+    font-size: 35px;
+}
+.one .container-fluid .second .project-four p{
+    font-size: 20px;
+}
+.one .container-fluid .second .project-four .button-one a{
+    text-decoration: none;
+    color: white;
+    
 }
