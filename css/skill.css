@@ -2,46 +2,60 @@
     margin: 0;
     padding: 0;
 }
-.part-one  h1{
+.part-one .five{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.part-one .five .content  h1{
     margin-top: 10px;
     margin-left: 10px;
     text-decoration:underline rgb(90, 230, 90);
 }
-.part-one h3{
+.part-one .five .content h3{
     margin-left: 10px;
+    color:rgb(90, 230, 90); 
 }
-.part-one .mine .body{
+.part-one .five .content .mine .body{
     display: flex;
     flex-direction: row;
     
 
 }
-.part-one .mine .body .first img{
+.part-one .five .content .mine .body .first img{
     padding-right: 50px;
 }
 
-.part-one .mine .body .second img{
+.part-one .five .content .mine .body .second img{
     padding-right: 50px;
 }
 
-.part-one .mine .body .third img{
+.part-one .five .content .mine .body .third img{
     padding-right: 50px;
 }
-.part-one .burn .other{
+.part-one .five .content h4{
+    margin-left: 10px;
+    color:rgb(90, 230, 90);
+}
+.part-one .five .content .burn .other{
     display: flex;
     flex-direction: row;
 }
-.part-one .burn .other .fifth img{
+.part-one .five .content .burn .other .fifth img{
     padding-right: 50px;
 
 }
 
-.part-one .burn .other .sixth img{
+.part-one .five .content .burn .other .sixth img{
     padding-right: 50px;
 
 }
 
-.part-one .burn .other .seventh img{
+.part-one .five .content .burn .other .seventh img{
     padding-right: 50px;
+
+}
+
+.part-one .five .team img{
 
 }
