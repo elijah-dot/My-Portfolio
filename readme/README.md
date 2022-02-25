@@ -35,7 +35,7 @@
 
 ## Licence
 
-<p>Distributed under the MIT Licence.
+Distributed under the MIT Licence [Click to Veiw licence](Licence)
 
 ## Authors Info
 
