@@ -7,3 +7,23 @@
     margin-left: 10px;
     text-decoration:underline rgb(90, 230, 90);
 }
+.part-one h3{
+    margin-left: 10px;
+}
+.part-one .mine .body{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.part-one .mine .body .first img{
+    padding-right: 50px;
+}
+
+.part-one .mine .body .second img{
+    padding-right: 50px;
+}
+
+.part-one .mine .body .third img{
+    padding-right: 50px;
+}
