@@ -5,6 +5,12 @@
 .one .container-fluid .first{
     margin-top: 40px;
 }
+@media(max-width:1230px)  {
+    .one .container-fluid .first{
+        display: none;
+    }
+    
+}
 .container-fluid{
     display: flex;
     justify-content: space-between;
