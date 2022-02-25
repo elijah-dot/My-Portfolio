@@ -27,3 +27,21 @@
 .part-one .mine .body .third img{
     padding-right: 50px;
 }
+.part-one .burn .other{
+    display: flex;
+    flex-direction: row;
+}
+.part-one .burn .other .fifth img{
+    padding-right: 50px;
+
+}
+
+.part-one .burn .other .sixth img{
+    padding-right: 50px;
+
+}
+
+.part-one .burn .other .seventh img{
+    padding-right: 50px;
+
+}
